@@ -1,4 +1,4 @@
-ello, I'm Saroj Gautam!
+Hello, I'm Saroj Gautam!
 Software Engineer | Educator | Tech Enthusiast
 
 Hi! I'm Saroj from Kathmandu, Nepal. I am currently working as a **Software Project Lead** at Smart Tech Solution and teaching part-time at **KNK International College**. I enjoy building software solutions and also love teaching students about technology.
