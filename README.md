@@ -25,7 +25,7 @@ Product Lifecycle | Agile/Scrum | ERP Systems | Infrastructure Tech | UX-Centere
 - **Smart Road** –  road design with CAD integration  
 - **Smart Estimation Tool** – Rate analysis & cost projection engine for Infrastructure related works 
 - **Smart Water Supply** – Simulation-based water supply design  
-- **Fleet Panda LMS** – Online training platform for logistics (US)  
+- **Smart Learning LMS** – Online training platform for Smart CAD Academy Course
 - **Water Asset Management System**- use to track the asset of water asset 
 -**Smart CRM System**- use to manage the license of smart tech product 
 
