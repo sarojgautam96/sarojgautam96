@@ -1,29 +1,41 @@
-Hello, I'm Saroj Gautam!
-Software Engineer | Educator | Tech Enthusiast
+## 👋 Hi, I'm Saroj Gautam
 
-Hi! I'm Saroj from Kathmandu, Nepal. I am currently working as a **Software Project Lead** at Smart Tech Solution and teaching part-time at **KNK International College**. I enjoy building software solutions and also love teaching students about technology.
+I’m a Director at Smart Tech Solution and a Product/Project Manager passionate about building scalable, user-focused digital products. I work at the intersection of technology, design, and strategy—leading systems that power infrastructure, governance, and enterprise operations.
 
-What I Do
-- Develop software for **road design, estimation tools, and ERP systems**.
-- Teach **.NET Framework, Web Technologies**, and **Project Management** to BCA students.
-- Work on web and mobile applications to solve real-world problems.
+### 💼 Current Role
+- Director @ [Smart Tech Solution Pvt. Ltd.](https://smarttech.com.np)  
+- Product Manager | Project Manager  
+- Lecturer @ KNK International College (Project Management, Mobile Programming, Web Technology)
 
- Skills
-- **Languages:** Python, C#, JavaScript, Kotlin, PHP
-- **Web:** HTML, CSS, .NET, ReactJS
-- **Database:** MySQL, PostgreSQL, SQLite
-- **Tools:** Jira, Odoo, Adobe XD
-- **Methodologies:** Agile, Scrum
+### 🎓 Education
+- Bachelor’s in Electronics and Communication Engineering
+- Master of Business Administration (MBA)
+- Master in Computer Engineering (Ongoing)
 
- Teaching Subjects
-- Web Technology (HTML, CSS, JS)
-- .NET Framework (C#)
-- Software Project Management (Agile, Scrum)
-- Android App Development (Kotlin)
+### 🔧 Tools & Technologies
+`.NET` | `C#` | `Python` | `React` | `Kotlin` | `PostgreSQL` | `Moodle` | `Odoo`
 
- Fun Fact
- Contact
-- Email: [hellosarojgautam@gmail.com](mailto:hellosarojgautam@gmail.com)
-- LinkedIn: [linkedin.com/in/saroj-gautam-784b351a6](https://www.linkedin.com/in/saroj-gautam-784b351a6)
+### 🧠 Core Strengths
+Product Lifecycle | Agile/Scrum | ERP Systems | Infrastructure Tech | UX-Centered Thinking | Team Leadership
 
-Thank you for visiting my GitHub profile!
+---
+
+### 🚀 Notable Projects
+
+- **Smart Road** –  road design with CAD integration  
+- **Smart Estimation Tool** – Rate analysis & cost projection engine for Infrastructure related works 
+- **Smart Water Supply** – Simulation-based water supply design  
+- **Fleet Panda LMS** – Online training platform for logistics (US)  
+- **Water Asset Management System**- use to track the asset of water asset 
+-**Smart CRM System**- use to manage the license of smart tech product 
+
+
+---
+
+### 📫 Connect With Me
+
+- 📧 [hellosarojgautam@gmail.com](mailto:hellosarojgautam@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saroj-gautam-784b351a6/)  
+- 💻 [GitHub](https://github.com/sarojgautam96)
+
+> “Leading with clarity, empathy, and execution.”
